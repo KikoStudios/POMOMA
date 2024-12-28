@@ -6,9 +6,5 @@
       "use": "@vercel/static-build",
       "config": { "zeroConfig": true }
     }
-  ],
-  "env": {
-    "VITE_KV_REST_API_URL": "@kv_rest_api_url",
-    "VITE_KV_REST_API_TOKEN": "@kv_rest_api_token"
-  }
+  ]
 } 
